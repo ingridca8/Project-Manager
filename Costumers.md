@@ -26,7 +26,7 @@ In the first step of forming the customer analysis, think about anyone with a st
 
 There are many ways to map out your customers and stakeholders; you may not get everyone in the first round, but using tools like a RACI could help when you are planning the project.
 
-### The RACI Chart
+## The RACI Chart
 
 A RACI is a chart that defines the customers involved in each activity of a project. The involvements are mapped out based on who needs to be Responsible, Accountable, Consulted, or Informed for a task, milestone, or decision when completing a project. There are four roles in a RACI that customers can be grouped into:
 
@@ -42,3 +42,36 @@ RACI Chart
 
 Once we have determined who our customers are and how each of them plays a role in this project, we can now begin to move forward with defining what success looks like for each group.
 
+## Determining what outcomes your customers really want
+
+Understanding and gaining consensus on the customer’s ideal outcome is the next step of defining your project success. You may have found your IT department were looking for more investment into the company’s tech infrastructure, whereas your executives were looking to cut costs where feasible. Not understanding each customer’s success criteria creates chaos in the middle of a project.
+
+If we first begin with the customer’s goal, we can work backwards. As project managers, we should be collaborating with all customer groups frequently to build consensus on what the measurable targets and critical success factors are. This drives accountability across the business and each customer, allowing the project manager to have a tangible outcome to monitor against.
+
+A great tool to help a project manager take a step back and work backward to obtain these success factors for the problem in a structure is “SIPOC.” SIPOC stands for Supplier, Input, Process, Output, and Customer. This process improvement framework is a way to evaluate, from left to right, inputs into a process to the customers of that process.
+
+Following the acronym, let’s start with what is either the first or last letters: suppliers and customers. These might be internal or external to the organization. The inputs and outputs of the process might be materials, services or information.
+
+The focus is on capturing the set of inputs or outputs rather than the individual steps of the process.
+
+   + Suppliers: Providers of inputs into a process.
+   + Inputs: Resources, such as materials, needed to complete the process.
+   + Process: Steps that convert inputs to outputs.
+   + Outputs: Product or service created from the process.
+   + Customers: Recipients of outputs.
+
+Using this framework to think, you’ll start with the customer and get to the outcome.
+
+But then you, the crafty project manager, add OUTCOME between Outputs and Customers. This is where the outputs of your projects have to coalesce with the desired outcomes of your customers. In the pizza shop example, the output is pizza, but the desired OUTCOME of your dine-in customers is Chicago-style pizza served on red and white checkered tablecloth with a candle.
+
+This is a simple example of how the SIPOC could help with getting at your customers desired outcomes. Bonus points if you incorporate those outcomes into the RACI.
+
+## Setting and Managing Customer Expectations
+
+Having quality customer relationships and adequately addressing your customers’ expectations can define your business’s success. In the example of building the home, setting expectations could be as simple as understanding the customer’s budget and presenting options in line with the budget versus offering the customer options and finding out later it does not meet budgetary requirements.
+
+Customer expectation management should be integral to your projects and is best achieved through regular and tailored communications, which should be laid out in its own plan. This includes informing your customers of project impacts and potential obstacles.
+
+A great example of expectation management is when public companies do investor calls. These calls are based on prior historical data, and analysts have set targets based on that data. This call presents the expected returns, profits, and expenses upfront, which sets the expectations for stockholders. This clear communication ensures that the company is beholden to certain outcomes, but the customer is informed about the overall risks. This creates greater trust compared to a process where customers are not communicated to about expectations.
+
+Another example: at Best Buy, employees are taught to under-promise and over-deliver in every transaction. For projects, it is equally valid. As a project manager, you should only make realistic and achievable promises, meaning **under-promise** and **over-perform** to keep control of customer expectations and overdeliver against the promise. 
