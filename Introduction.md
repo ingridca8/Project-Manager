@@ -44,3 +44,16 @@ Strategic Planning Level Breakdown
 | **Purpose** | Centralizes identifying, prioritizing, authorizing, managing, and controlling one or more programs, projects, or products. | Centralizes coordination of programs to achieve the program's capabilities and strategic and business objectives by focusing on project interdependencies and optimal approaches to managing them. |	Streamlines execution and maintenance of products, services, or experiences throughout the product’s lifecycle. |
 | **Role** | Portfolio Managers provide overall strategic direction of programs, projects, and products. This is a key leader or executive dedicated to effectively sponsoring the portfolio of projects, programs, and products. |	Program Managers guide several subprojects to execution. |	Product Managers serve as the voice of the customer. They are responsible for developing the product roadmap, guiding evaluation of customer needs to maximize success, and supporting the product after deployment. |
 
+Each of these functions of an organization has distinct goals that meet the organization’s mission and vision.
+
+Responsibilities of a Project Manager, Product Manager, and Portfolio Manager Chart
+
+| Program Manager |	Project Manager |	Product Manager |
+| --- | --- | --- |
+| * Long Term Planning/Vision/Strategy 	| * Short Term Planning/Scheduling 	| * Product Strategy/Setting Vision |
+| * Define Success of Programs 	| * Breakdown Scope into Tasks 	| * Feature Identification/Prioritization |
+| * Define OKRs and Leadership Oversight 	| * Resource Allocation 	| * Market Research and Ideation |
+| * Defines overall budgets and benefits 	| * Monitor completion/execution |	* Create/Maintain Roadmap |
+| * Monitor Project Teams 	| * Communicate progress to stakeholders |	* Prioritize Launches and Adoption |
+| * Advise Projects 	| * Communicate risks & dependencies |	* Collaborate with Sales/Marketing teams |
+
