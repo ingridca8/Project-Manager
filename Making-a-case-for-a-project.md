@@ -46,7 +46,7 @@ A charter is typically the elevator pitch you present to executives for approval
   + Milestones
   + Risks
 
-![Chart]([https://static-assets.codecademy.com/Courses/intro-to-project-management/business-model-canvas-example.svg](https://static-assets.codecademy.com/Courses/intro-to-project-management/pmi-example.png) "PMI project documents diagram")
+![Chart](https://static-assets.codecademy.com/Courses/intro-to-project-management/pmi-example.png "PMI project documents diagram")
 
 A project charter is typically seen as a very formal and lengthy living document built at the start of the project. 
 
