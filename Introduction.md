@@ -37,7 +37,7 @@ A program consists of a group of related projects coordinated and managed to max
 
 A product is a tangible or intangible item created to solve a fundamental market problem or customer needs. It is typically built in collaboration with Design, Marketing, Business and Technology organizations to ensure its success.
 
-Strategic Planning Level Breakdown
+### Strategic Planning Level Breakdown
 
 |   | Portfolio Management | Program Management | Prodeuct Management |
 | --- | --- | --- | --- |
@@ -46,7 +46,7 @@ Strategic Planning Level Breakdown
 
 Each of these functions of an organization has distinct goals that meet the organization’s mission and vision.
 
-Responsibilities of a Project Manager, Product Manager, and Portfolio Manager Chart
+### Responsibilities of a Project Manager, Product Manager, and Portfolio Manager Chart
 
 | Program Manager |	Project Manager |	Product Manager |
 | --- | --- | --- |
@@ -57,3 +57,32 @@ Responsibilities of a Project Manager, Product Manager, and Portfolio Manager Ch
 | * Monitor Project Teams 	| * Communicate progress to stakeholders |	* Prioritize Launches and Adoption |
 | * Advise Projects 	| * Communicate risks & dependencies |	* Collaborate with Sales/Marketing teams |
 
+## Project Manager Certifications
+
+Whether you’re looking to be a more effective project contributor, move into project management full time, lead small projects or lead a team that includes project managers, certifications can grow your expertise and validate your skills. We don’t just mean the hard skills; project management heavily focuses on soft skills such as communicating, influencing, and leading. These skills are equally as important as hard or technical skills.
+
+With the demand for Project Managers growing exceedingly faster than the supply in the market, professionals who have pursued industry-recognized project management certifications are in high demand. The industry-recognized certifications will take your career to the next level.
+
+   + PMI Project Management Professional (PMP)
+   + PMI Agile Certified Practitioner
+   + PMI Certified Associate in Project Management (CAPM)
+   + Scrum Alliance Certified Scrum Master
+   + CompTIA Project+ Certification
+   + PRINCE2 Practitioner
+   + Scaled Agile Framework (SAFe)
+
+the project manager plays a pivotal role in delivering the success of a project. They drive the vision and consult with key executives and business unit leaders to advance the success of their projects, including their budgets, forecasts, profit and losses (P&L) goals, strategic objectives, performance, and meeting their release schedules. The project manager also ensures the success of the project post-launch with a follow-on to maximize the project’s benefits to the organization.
+
+While the project manager is not expected to perform every role within the organization or project, they have a large sphere of influence. Project Managers possess critical technical or domain knowledge, understanding, and expertise to provide the team with effective leadership, communication, mentorship, coordination, and planning.
+
+The top 2% of project managers distinguish themselves by demonstrating superior relationship and communication skills with a positive attitude. These are comparable responsibilities and attributes to the role of a CEO in many organizations. Project Managers and CEOs both:
+
+   + Develop extensive networks across their sphere of influence and beyond
+   + Communicate consistently and predictably
+   + Create, maintain and follow a roadmap/schedule
+   + Have exceptional communication skills (written, verbal and nonverbal)
+   + Incorporate feedback when communicating with stakeholders
+   + Maintain objective views when considering updates or project-related news
+   + Effectively manage budgets, forecasts, and resources
+
+Truly fearless PMs are the ones that act like CEOs within their organizations: taking risks, owning the outcome vs. the process, and breaking down the status quo to drive value to their company through the use of technology. Because in reality, just focusing on the process doesn’t get you there. “On time and on budget” doesn’t necessarily mean the product is worth even a single dollar.
