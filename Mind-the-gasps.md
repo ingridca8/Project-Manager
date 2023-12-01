@@ -35,7 +35,9 @@ Some other common project dependencies are:
 
 These dependencies are similar to constraints in that they can also be viewed as project risks that could hinder the project’s success. 
 
-## In project management, project risk is an uncertain event that may or may not occur during a project and have a negative or a positive effect on progress towards project objectives. In other words, anything that could go wrong.
+## Risks
+
+In project management, project risk is an uncertain event that may or may not occur during a project and have a negative or a positive effect on progress towards project objectives. In other words, anything that could go wrong.
 
 Some examples of project-related risks could be having developers who are early in their career versus senior developers, going over your project budget, and additional asks that extend outside the scope (aka scope creep).
 
