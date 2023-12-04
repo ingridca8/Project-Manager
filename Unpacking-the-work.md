@@ -13,3 +13,26 @@ This method allows you to organize your activities and projects into sizes to un
 # Repack the work
 
 There is no one-size-fits-all approach to scheduling tasks, but having a collaborative team to understand what order tasks or activities can be delivered is extremely important in successful project planning. While some require one to be completed before another begins, others can be done in parallel, such as purchasing materials for framing while laying the foundation of a home or installing electrical and plumbing simultaneously.
+
+![](https://static-assets.codecademy.com/Courses/intro-to-project-management/gantt-chart.png "Critical Path Method")
+
+A critical path is understanding what sequence of activities must occur and how long each activity will take to finish the project. The “Critical Path Method” is a visual approach to scheduling key project activities required to complete a project on time by outlining the path to completion.
+
+# Tools
+
+There are Project Management and organization tools that can help you visually order and schedule the project plan. These can help the team establish and reference a timeline and any critical dependencies between activities. Some common tools used to plan and prioritize tasks are:
+
+ +   Monday.com
+ +   Trello
+ +   Asana
+  +  MS Project
+ +   Wrike
+
+While this is not an exhaustive list, these are some tools to consider to help you organize, quantify and visually showcase the plan for your project.
+
+# Conclusion
+
+ >   “A goal without a plan is just a wish.”
+ >   ~ Antoine de Saint-Exupéry
+
+When you are gearing up to kickstart your project, start with a concrete plan and bring your stakeholders and customers in to ensure you capture all the project needs and scoop the work based on the customer outcomes. Break down this work from the start of the first task to the conclusion of the last task and ensure you understand the level of effort and logical sequence your team can deliver. Leverage tools as necessary to ensure the plan is transparent to your stakeholder and communicate updates often. This will create an efficient and viable project!
