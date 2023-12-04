@@ -9,7 +9,7 @@ Project Manager learning notes
 5. [Organizational Changes](Organizational-Changes.md)
 6. [Mind the gasps](Mind-the-gasps.md)
 7. [Unpacking the work](Unpacking-the-work.md)
-8. []()
+8. [The project canvas](Project-canvas.md)
 9. [Introduction to Project Management PDF](Introduction+to+Project+Management.pdf)
 
 ## Resources
