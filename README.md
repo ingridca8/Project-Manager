@@ -1,7 +1,7 @@
 # Project-Manager
-Project Manager learning notes
+This repository contains my personal notes on project management. These notes serve as a reference for different project management concepts, tools, and techniques that I have learned throughout my journey.
 
-## Index in order 
+## Table of Contents
 1. [Introduction](Introduction.md)
 2. [Making a case for a project](Making-a-case-for-a-project.md)
 3. [Costumers](Costumers.md)
